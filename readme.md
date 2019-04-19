@@ -1,4 +1,28 @@
-# Qijie_CQ`s Blog
+# Qijie'Blog
 
-> This is a personal project<br/>
-> If anyone have some idea or advice, you can edit on this file.
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
